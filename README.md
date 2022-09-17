@@ -7,3 +7,6 @@ please check https://nbviewer.org/github/gishamohebi/Selenium-Tax-laws/blob/Phas
 
 2. "Tax_Laws_bab4_Final.ipynb" file 
 please check https://nbviewer.org/github/gishamohebi/Selenium-Tax-laws/blob/Phase-1/Tax_Laws_bab4_Final.ipynb
+
+Or paste the file's url in the link below:
+https://nbviewer.org/
